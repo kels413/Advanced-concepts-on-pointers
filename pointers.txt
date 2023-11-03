@@ -1,0 +1,37 @@
+Notes taking about pointers.
+
+SECTION1: POINTERS - INTRODUCTION TO BASICS.
+to see the address of a variable we use the address variable (&num)
+and using pointers you do like this int *ptr = &num
+
+EXAMPLE.
+int main(void)
+{
+    int num = 3;
+
+    int *ptr = &num;
+
+    to see the address of num1, you d.
+
+   " printf("%p", &num);" this will give you the address of num1.
+
+    using pointers
+    "printf("%p",ptr)"
+}
+
+
+
+
+///////////////////////////////////////////////////////////
+
+problems to solve.
+
+the problem where he listed so m any values of print.
+returning multiple statments in function using pointers.
+
+
+
+SECTION2  - POINTERS CONCEPT AND BEYOND.
+
+
+///////////////////////////////////////////////////////////
